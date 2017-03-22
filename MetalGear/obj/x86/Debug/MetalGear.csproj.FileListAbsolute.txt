@@ -1,0 +1,23 @@
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\bin\Debug\MetalGear.exe
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\bin\Debug\MetalGear.pdb
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\bin\Debug\Midi.dll
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\bin\Debug\SBC.dll
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\bin\Debug\LibUsbDotNet.dll
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\bin\Debug\SBC.pdb
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\bin\Debug\Midi.xml
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\bin\Debug\LibUsbDotNet.xml
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\obj\x86\Debug\MetalGear.exe
+C:\Users\Matthew\Documents\SharpDevelop Projects\MetalGear\MetalGear\obj\x86\Debug\MetalGear.pdb
+C:\Users\Matthew\Music\MetalGear\MetalGear\obj\x86\Debug\MetalGear.exe
+C:\Users\Matthew\Music\MetalGear\MetalGear\obj\x86\Debug\MetalGear.pdb
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\obj\x86\Debug\MetalGear.exe
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\obj\x86\Debug\MetalGear.pdb
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\bin\Debug\MetalGear.exe
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\bin\Debug\MetalGear.pdb
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\bin\Debug\SBC.dll
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\bin\Debug\LibUsbDotNet.dll
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\bin\Debug\SBC.pdb
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\bin\Debug\Midi.xml
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\bin\Debug\LibUsbDotNet.xml
+C:\Users\Citron\Music\Music\MetalGear\MetalGear\obj\x86\Debug\MetalGear.csprojResolveAssemblyReference.cache
